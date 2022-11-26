@@ -86,7 +86,7 @@ namespace NewStore.Controllers
 
             var result = await _context.SaveChangesAsync() > 0;
 
-            if (result) return CreatedAtRoute("GetProduct", new { Id = product.Id }, product);
+            if (result) return CreatedAtAction("GetProduct", new { Id = product.Id }, product);
 
             return BadRequest(new ProblemDetails { Title = "Problem creating new product" });
         }
