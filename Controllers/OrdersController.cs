@@ -70,8 +70,8 @@ namespace NewStore.Controllers
                 };
                 items.Add(orderItem);
                 productItem.QuantityInStock -= item.Quantity;
-
-                if(productItem.QuantityInStock >= 0)
+                
+                if(productItem.QuantityInStock <= 0)
                 {
                     _context.Products.Remove(productItem);
                 }
