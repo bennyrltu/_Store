@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Deploy5\\NewStore.csproj": {}
+    "D:\\_Store\\_Store\\NewStore.csproj": {}
   },
   "projects": {
-    "D:\\_Deploy5\\NewStore.csproj": {
+    "D:\\_Store\\_Store\\NewStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Deploy5\\NewStore.csproj",
+        "projectUniqueName": "D:\\_Store\\_Store\\NewStore.csproj",
         "projectName": "NewStore",
-        "projectPath": "D:\\_Deploy5\\NewStore.csproj",
+        "projectPath": "D:\\_Store\\_Store\\NewStore.csproj",
         "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-        "outputPath": "D:\\_Deploy5\\obj\\",
+        "outputPath": "D:\\_Store\\_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
