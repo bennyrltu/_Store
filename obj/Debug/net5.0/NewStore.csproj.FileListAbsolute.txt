@@ -1,0 +1,398 @@
+D:\NewStore\NewStore\bin\Debug\net5.0\appsettings.Development.json
+D:\NewStore\NewStore\bin\Debug\net5.0\appsettings.json
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.exe
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.deps.json
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.json
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.dev.json
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\NewStore.pdb
+D:\NewStore\NewStore\bin\Debug\net5.0\Humanizer.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.csproj.AssemblyReference.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfoInputs.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfo.cs
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.csproj.CoreCompileInputs.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cs
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\scopedcss\bundle\NewStore.styles.css
+D:\NewStore\NewStore\obj\Debug\net5.0\staticwebassets\NewStore.StaticWebAssets.Manifest.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.RazorTargetAssemblyInfo.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.csproj.CopyComplete
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.dll
+D:\NewStore\NewStore\obj\Debug\net5.0\refint\NewStore.dll
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.pdb
+D:\NewStore\NewStore\obj\Debug\net5.0\NewStore.genruntimeconfig.cache
+D:\NewStore\NewStore\obj\Debug\net5.0\ref\NewStore.dll
+D:\NewStore\NewStore\bin\Debug\net5.0\client\package-lock.json
+D:\NewStore\NewStore\bin\Debug\net5.0\client\package.json
+D:\NewStore\NewStore\bin\Debug\net5.0\client\public\manifest.json
+D:\NewStore\NewStore\bin\Debug\net5.0\client\tsconfig.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\appsettings.Development.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\appsettings.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\client\package-lock.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\client\package.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\client\public\manifest.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\client\tsconfig.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.exe
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.deps.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.dev.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\NewStore.pdb
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Humanizer.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.csproj.AssemblyReference.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfoInputs.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfo.cs
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.csproj.CoreCompileInputs.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cs
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\scopedcss\bundle\NewStore.styles.css
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\staticwebassets\NewStore.StaticWebAssets.Manifest.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.RazorTargetAssemblyInfo.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.csproj.CopyComplete
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.dll
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\refint\NewStore.dll
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.pdb
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\NewStore.genruntimeconfig.cache
+D:\NewStore - Copy\NewStore\obj\Debug\net5.0\ref\NewStore.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Stripe.net.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\API\wwwroot\asset-manifest.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\API\wwwroot\manifest.json
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Npgsql.dll
+D:\NewStore - Copy\NewStore\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\API\wwwroot\manifest.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\appsettings.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\client\package-lock.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\client\public\manifest.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\client\tsconfig.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\API\wwwroot\asset-manifest.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\appsettings.Development.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\client\package.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.exe
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.deps.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.runtimeconfig.dev.json
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\NewStore.pdb
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Humanizer.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Npgsql.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Stripe.net.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Rest_Store\NewStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.csproj.AssemblyReference.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfoInputs.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.AssemblyInfo.cs
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.csproj.CoreCompileInputs.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\scopedcss\bundle\NewStore.styles.css
+D:\Rest_Store\NewStore\obj\Debug\net5.0\staticwebassets\NewStore.StaticWebAssets.Manifest.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.RazorTargetAssemblyInfo.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.csproj.CopyComplete
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.dll
+D:\Rest_Store\NewStore\obj\Debug\net5.0\refint\NewStore.dll
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.pdb
+D:\Rest_Store\NewStore\obj\Debug\net5.0\NewStore.genruntimeconfig.cache
+D:\Rest_Store\NewStore\obj\Debug\net5.0\ref\NewStore.dll
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.csproj.AssemblyReference.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.AssemblyInfoInputs.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.AssemblyInfo.cs
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.csproj.CoreCompileInputs.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cs
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.dll
+D:\_Deploy\_Deploy\obj\Debug\net5.0\refint\NewStore.dll
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.pdb
+D:\_Deploy\_Deploy\bin\Debug\net5.0\API\wwwroot\manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\appsettings.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\public\manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\tsconfig.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\API\wwwroot\asset-manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\appsettings.Development.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\build\asset-manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\build\manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\build\asset-manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\build\manifest.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\package-lock.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\client\package.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.exe
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.deps.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.runtimeconfig.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.runtimeconfig.dev.json
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\NewStore.pdb
+D:\_Deploy\_Deploy\bin\Debug\net5.0\AutoMapper.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Humanizer.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Npgsql.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Stripe.net.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\_Deploy\_Deploy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Deploy\_Deploy\obj\Debug\net5.0\scopedcss\bundle\NewStore.styles.css
+D:\_Deploy\_Deploy\obj\Debug\net5.0\staticwebassets\NewStore.StaticWebAssets.Manifest.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.RazorTargetAssemblyInfo.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.csproj.CopyComplete
+D:\_Deploy\_Deploy\obj\Debug\net5.0\NewStore.genruntimeconfig.cache
+D:\_Deploy\_Deploy\obj\Debug\net5.0\ref\NewStore.dll
+D:\_Deploy5\bin\Debug\net5.0\API\wwwroot\asset-manifest.json
+D:\_Deploy5\bin\Debug\net5.0\API\wwwroot\manifest.json
+D:\_Deploy5\bin\Debug\net5.0\appsettings.Development.json
+D:\_Deploy5\bin\Debug\net5.0\appsettings.json
+D:\_Deploy5\bin\Debug\net5.0\build\asset-manifest.json
+D:\_Deploy5\bin\Debug\net5.0\build\manifest.json
+D:\_Deploy5\bin\Debug\net5.0\client\package-lock.json
+D:\_Deploy5\bin\Debug\net5.0\client\package.json
+D:\_Deploy5\bin\Debug\net5.0\client\public\manifest.json
+D:\_Deploy5\bin\Debug\net5.0\client\tsconfig.json
+D:\_Deploy5\bin\Debug\net5.0\NewStore.exe
+D:\_Deploy5\bin\Debug\net5.0\NewStore.deps.json
+D:\_Deploy5\bin\Debug\net5.0\NewStore.runtimeconfig.json
+D:\_Deploy5\bin\Debug\net5.0\NewStore.runtimeconfig.dev.json
+D:\_Deploy5\bin\Debug\net5.0\NewStore.dll
+D:\_Deploy5\bin\Debug\net5.0\NewStore.pdb
+D:\_Deploy5\bin\Debug\net5.0\AutoMapper.dll
+D:\_Deploy5\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\_Deploy5\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\_Deploy5\bin\Debug\net5.0\Humanizer.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_Deploy5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_Deploy5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_Deploy5\bin\Debug\net5.0\Npgsql.dll
+D:\_Deploy5\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\_Deploy5\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\_Deploy5\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\_Deploy5\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\_Deploy5\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\_Deploy5\bin\Debug\net5.0\Stripe.net.dll
+D:\_Deploy5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_Deploy5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_Deploy5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_Deploy5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_Deploy5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\_Deploy5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_Deploy5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Deploy5\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\_Deploy5\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\_Deploy5\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\_Deploy5\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\_Deploy5\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\_Deploy5\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\_Deploy5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Deploy5\obj\Debug\net5.0\NewStore.csproj.AssemblyReference.cache
+D:\_Deploy5\obj\Debug\net5.0\NewStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Deploy5\obj\Debug\net5.0\NewStore.AssemblyInfoInputs.cache
+D:\_Deploy5\obj\Debug\net5.0\NewStore.AssemblyInfo.cs
+D:\_Deploy5\obj\Debug\net5.0\NewStore.csproj.CoreCompileInputs.cache
+D:\_Deploy5\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cs
+D:\_Deploy5\obj\Debug\net5.0\NewStore.MvcApplicationPartsAssemblyInfo.cache
+D:\_Deploy5\obj\Debug\net5.0\scopedcss\bundle\NewStore.styles.css
+D:\_Deploy5\obj\Debug\net5.0\staticwebassets\NewStore.StaticWebAssets.Manifest.cache
+D:\_Deploy5\obj\Debug\net5.0\NewStore.RazorTargetAssemblyInfo.cache
+D:\_Deploy5\obj\Debug\net5.0\NewStore.csproj.CopyComplete
+D:\_Deploy5\obj\Debug\net5.0\NewStore.dll
+D:\_Deploy5\obj\Debug\net5.0\refint\NewStore.dll
+D:\_Deploy5\obj\Debug\net5.0\NewStore.pdb
+D:\_Deploy5\obj\Debug\net5.0\NewStore.genruntimeconfig.cache
+D:\_Deploy5\obj\Debug\net5.0\ref\NewStore.dll
