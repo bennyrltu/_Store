@@ -10,6 +10,7 @@ namespace NewStore.API.OrderAggregate
     {
         Pending,
         PaymentReceived,
-        PaymentFailed
+        PaymentFailed,
+        Succesful
     }
 }

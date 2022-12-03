@@ -93,7 +93,7 @@ namespace NewStore.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPut]
-        public async Task<ActionResult<Product>> UpdateProduct([FromForm]UpdateProductDto productDto)
+        public async Task<ActionResult<Product>> UpdateProduct(UpdateProductDto productDto)
         {
             var product = await _context.Products.FindAsync(productDto.Id);
 

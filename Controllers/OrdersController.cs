@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using _Store.API.DTOs;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -17,9 +19,11 @@ namespace NewStore.Controllers
     public class OrdersController : BaseApiController
     {
         private readonly StoreContext _context;
-        public OrdersController(StoreContext context)
+        private readonly IMapper _mapper;
+        public OrdersController(StoreContext context, IMapper mapper)
         {
             _context = context;
+            _mapper=mapper;
 
         }
 
@@ -116,6 +120,43 @@ namespace NewStore.Controllers
             if (result) return CreatedAtRoute("GetOrder", new {id = order.Id}, order.Id);
 
             return BadRequest(new ProblemDetails{Title = "Problem creating order"});
+        }
+
+       [HttpPut(Name = "UpdateOrder")]
+       public async Task<ActionResult<Order>> UpdateOrder(UpdateOrderDto orderDto)
+       {
+        var order= await _context.Orders.FindAsync(orderDto.Id);
+
+         if (order == null)
+            {
+                return NotFound();
+            }
+
+            _mapper.Map(orderDto, order);
+
+            var result = await _context.SaveChangesAsync() > 0;
+
+            if (result) return Ok(order);
+
+            return BadRequest(new ProblemDetails { Title = "Problem updating product" });
+       }
+
+        [Authorize(Roles = "Admin")]
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteProduct(int id)
+        {
+            var order = await _context.Orders.FindAsync(id);
+
+            if (order == null) return NotFound();
+
+
+            _context.Orders.Remove(order);
+
+            var result = await _context.SaveChangesAsync() > 0;
+
+            if (result) return Ok();
+
+            return BadRequest(new ProblemDetails { Title = "Problem deleting order" });
         }
     }
 }
